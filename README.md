@@ -1,4 +1,4 @@
-# 🚀 Minha Primeira segunda com .NET CLI
+# 🚀 Minha segunda interação com .NET CLI
 
 Nesta missão, deixei de ser apenas um usuário de pastas e me tornei um desenvolvedor que fala a língua do SDK.
 
